@@ -5,8 +5,7 @@
 lista de microservicios
 
 ## Client
-
-    Gateway REST para comunicacion con MS mediante NATS
+Gateway REST para comunicacion con MS mediante NATS
 
 ## SIMPLE
 
